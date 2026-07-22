@@ -29,7 +29,6 @@ Simulated a realistic multi-campus network connecting several sites with differe
 ## Tools
 
 - Cisco Packet Tracer (simulation)
-- Cisco IOS (router/switch configuration)
 
 ## Documentation
 
